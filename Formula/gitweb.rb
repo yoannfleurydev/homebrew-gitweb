@@ -1,8 +1,8 @@
 class Gitweb < Formula
   desc "Open the current remote repository in your browser"
   homepage "https://github.com/yoannfleurydev/gitweb"
-  url "https://github.com/yoannfleurydev/gitweb/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "a5c21d9435f6543e017f12318a311ccb42e7ef0775dddbe8150e16d408b66b32"
+  url "https://github.com/yoannfleurydev/gitweb/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "13e080897926746a18695aefb4ee6b4678f4908bb141249046df212d4249b44e"
   license "Apache-2.0"
 
   depends_on "rust" => :build
